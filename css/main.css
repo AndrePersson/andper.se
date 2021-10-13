@@ -2,11 +2,14 @@
  * Globals
  */
 
- :root {
+:root {
     --main-transition: 0.5s;
-    --main-accent-color: #ffc107;
-    --main-color: #fff;
-    --main-dark-color: #222;
+    --main-accent-color: #E57F84;
+    --main-secondary-color: #4297A0;
+    --main-color: #F4EAE6;
+    --main-dark-color: #2F5061;
+    --text-weight-bold: 700;
+    --text-weight-bolder: 900;
 }
 
 
@@ -53,6 +56,11 @@ body {
     color: #fff;
     text-align: center;
     font-family: 'Quicksand', sans-serif;
+}
+
+span {
+    color: var(--main-accent-color);
+    font-weight: var(--text-weight-bolder);
 }
 
 
