@@ -1,5 +1,6 @@
 # To build sass
 sass css/main.scss css/main.css
+sass --watch css/main.scss:css/main.css
 
 # npm install
 
