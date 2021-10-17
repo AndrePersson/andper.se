@@ -60,7 +60,7 @@ body { font-family: tahoma, verdana, arial; font-size: 0.7em; color: black; padd
 #idx .gray { background-color:##212121; border-bottom: 1px solid #3B3B3B; }
 #idx p { padding: 0px; margin: 0px;line-height:1.4em;}
 #idx p.left { float:left;width:60%;padding:3px;color:#F6F6F6;}
-#idx p.right {float:right;width:35%;text-align:right;color:#F6F6F6;padding:3px;}
+#idx p.right {float:right;width:35%;text-align:right;color:#F6F6F6;padding:3px;display:none;}
 #idx strong { font-family: "Trebuchet MS", tahoma, arial; font-size: 1.2em; font-weight: bold; color: #F6F6F6; padding-bottom: 3px; margin: 0px; }
 #idx a:link    { color: #D9CAB3; }
 #idx a:visited { color: #D9CAB3; }
